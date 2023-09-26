@@ -10,7 +10,7 @@
   </h1>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty" /></p>
 
 <p align="center">
 Logic - Compass of philosophy.
@@ -44,72 +44,62 @@ Philosophical recipe - Napoleon Cake.
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=slateorange" />
-  </a>
-</div>
+<a href="https://github.com/kebasyaty">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=slateorange" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=slateorange" />
+</a>
 
 ## Skills & Technologies:
 
-<div align="center">
-  <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-  </p>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</p>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Languages:-orange" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/kebasyaty">
+    <img src="https://img.shields.io/badge/Languages:-orange" />
+  </a>
+</p>
 
-<div align="center">
-  <p align="center">
-     <a href="https://github.com/kebasyaty?tab=repositories">
-       <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal" />
-     </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/kebasyaty?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal" />
+  </a>
+</p>
 
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Development:-orange" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/kebasyaty">
+    <img src="https://img.shields.io/badge/Development:-orange" />
+  </a>
+</p>
 
-<div align="center">
-  <p align="center">
+<p align="center">
    <a href="https://github.com/kebasyaty?tab=repositories">
      <img src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
    </a>
- </p>
-</div>
+</p>
 
 ## Connect with me:
 
-<div align="center">
-  <p align="center">
+<p align="center">
   <a href="https://github.com/kebasyaty">
     <img src="https://img.shields.io/badge/Socialmedia:-orange" />
   </a>
 </p>
-</div>
 
-<div align="center">
-  <p align="center">
+<p align="center">
     <div>
-      <a href = "mailto:kebasyaty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://twitter.com/kebasyaty/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+      <a href = "mailto:kebasyaty@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://twitter.com/kebasyaty/" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+      </a>
     </div>
-  </p>
-</div>
+</p>
 
 <p align="center"> 
   Visitors :<br>
