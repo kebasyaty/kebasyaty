@@ -82,7 +82,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
    <a href="https://github.com/kebasyaty?tab=repositories">
-     <img src="https://skillicons.dev/icons?i=vue,django,git,vscode" /> 
+     <img src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
    </a>
  </p>
 </div>
