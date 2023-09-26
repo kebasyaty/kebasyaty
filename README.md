@@ -26,14 +26,14 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=slateorange" alt="Profile details.">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=aura_dark" alt="Profile details.">
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=aura_dark" alt="Language stats.">
 </div>
 
 <div align="center">
@@ -46,8 +46,8 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=aura_dark" />
   </a>
 </div>
 
