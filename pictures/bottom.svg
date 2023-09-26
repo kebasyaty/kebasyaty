@@ -15,10 +15,6 @@ svg {
   fill: #4A148C;  
 }
 
-.wave:hover {
-  fill: #fff;
-}
-
 #wave2 {
   animation-duration:6s;
   animation-direction: reverse;
