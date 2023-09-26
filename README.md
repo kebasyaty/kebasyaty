@@ -38,7 +38,7 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=aura-dark&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
 
