@@ -65,7 +65,7 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-     <a href="https://github.com/dawidolko?tab=repositories">
+     <a href="https://github.com/kebasyaty?tab=repositories">
        <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal" />
      </a>
   </p>
