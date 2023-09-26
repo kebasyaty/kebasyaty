@@ -31,7 +31,9 @@ Philosophical recipe - Napoleon Cake.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  </p>
 </div>
 
 <div align="center">
