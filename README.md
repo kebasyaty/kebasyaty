@@ -26,19 +26,19 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=aura_dark" alt="Profile details.">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=city_lights" alt="Profile details.">
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=aura_dark" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=city_lights" alt="Language stats.">
 </div>
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=aura-dark&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=city-lights&hide_border=true&exclude_days=Sun" />
   </a>
 </div>
 
@@ -46,12 +46,12 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=aura_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=aura_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=city_lights" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=city_lights" />
   </a>
     <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=aura_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=aura_dark&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=city_lights" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=city_lights&utcOffset=8" />
   </a>
 </div>
 
