@@ -70,3 +70,19 @@ Philosophical recipe - Napoleon Cake.
      </a>
   </p>
 </div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/kebasyaty">
+      <img src="https://img.shields.io/badge/Development:-orange" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+   <a href="https://github.com/kebasyaty?tab=repositories">
+     <img src="https://skillicons.dev/icons?i=vue,git,vscode" /> 
+   </a>
+ </p>
+</div>
