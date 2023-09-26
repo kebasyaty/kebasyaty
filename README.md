@@ -86,3 +86,28 @@ Philosophical recipe - Napoleon Cake.
    </a>
  </p>
 </div>
+
+## Connect with me:
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/kebasyaty">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <div>
+      <a href="https://twitter.com/kebasyaty/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/kebasyaty/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto:kebasyaty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    </div>
+  </p>
+</div>
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg" />
+</p>
