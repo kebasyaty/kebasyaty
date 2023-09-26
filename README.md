@@ -26,6 +26,10 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=slateorange" alt="Profile details.">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
