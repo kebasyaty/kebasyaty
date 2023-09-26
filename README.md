@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pictures/wellcome.svg">
+  <img src="pictures/wave_top.svg">
 </p>
 
 <div align="center">
@@ -123,5 +123,5 @@ Philosophical recipe - Napoleon Cake.
 </p>
 
 <div align="center">
-  <img src="pictures/night_ocean.svg">
+  <img src="pictures/wave_bottom.svg">
 </div>
