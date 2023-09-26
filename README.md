@@ -116,6 +116,6 @@ Philosophical recipe - Napoleon Cake.
   <img src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg" />
 </p>
 
-<p align="center">
-  <img src="pictures/bottom.svg">
-</p>
+<div align="center">
+  <img src="pictures/night_ocean.svg">
+</div>
