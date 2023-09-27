@@ -16,7 +16,7 @@
 Logic - Compass of philosophy.
 </p>
 <p align="center">
-Philosophy - Flashlight light in the attic of forgotten things.
+Philosophy - Light from a flashlight in the attic of forgotten things.
 </p>
 <p align="center">
 Philosophical recipe - Napoleon Cake.
