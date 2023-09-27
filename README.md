@@ -22,6 +22,8 @@ Philosophy - Light from a flashlight in the attic of forgotten things.
 Philosophical recipe - Napoleon Cake.
 </p>
 
+<br/>
+
 ## My profile stats here:
 
 <div align="center">
