@@ -97,6 +97,8 @@ Philosophical recipe - Napoleon Cake.
  </p>
 </div>
 
+<br/>
+
 ## Connect with me:
 
 <div align="center">
