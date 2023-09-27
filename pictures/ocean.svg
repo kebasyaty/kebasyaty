@@ -4,7 +4,6 @@
 svg {
   width:110vw;
   position:fixed;
-  top:-5px;
   transform: rotate(360deg);
   overflow:visible;
 }
