@@ -2,8 +2,7 @@
 <style>
 
 svg {
-  width:110vw;
-  position:fixed;
+  width:100%;
   transform: rotate(360deg);
   overflow:visible;
 }
