@@ -127,5 +127,7 @@ Philosophical recipe - Napoleon Cake.
 </p>
 
 <div align="center">
-  <img src="pictures/ocean.svg">
+  <p align="center">
+    <img src="pictures/ocean.svg">
+  </p>
 </div>
