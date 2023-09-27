@@ -12,6 +12,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty" /> </p>
 
+<br/>
+
 <p align="center">
 Logic - Compass of philosophy.
 </p>
