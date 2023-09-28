@@ -186,7 +186,7 @@ Philosophical recipe - Napoleon Cake.
       <a href="https://github.com/kebasyaty">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="https://pypi.org/" target="_blank">
+      <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
         <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
       </a>
     </div>
