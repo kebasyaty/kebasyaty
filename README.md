@@ -122,7 +122,7 @@ Philosophical recipe - Napoleon Cake.
         <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu">
       </a>
       <a href = "https://linuxmint.com/">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/Linux%20Mint-darkgreen?style=for-the-badge&logo=linuxmint">
+        <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-green?style=for-the-badge&logo=linuxmint&labelColor=darkgreen&color=darkgreen">
       </a>
     </div>
   </p>
