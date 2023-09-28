@@ -110,7 +110,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Systems:-orange">
+      <img src="https://img.shields.io/badge/Operating%20Systems:-orange">
     </a>
   </p>
 </div>
