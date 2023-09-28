@@ -166,7 +166,7 @@ Philosophical recipe - Napoleon Cake.
   </p>
   <p align="center">
     <div>
-      <a href="https://bitbucket.org/">
+      <a href="https://bitbucket.org">
         <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
       </a>
       <a href="https://github.com/kebasyaty">
