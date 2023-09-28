@@ -197,9 +197,9 @@ Philosophical recipe - Napoleon Cake.
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
+  <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
 </p>
 
 <div align="center">
-    <img src="pictures/ocean.svg">
+    <img alt="Ocean" src="pictures/ocean.svg">
 </div>
