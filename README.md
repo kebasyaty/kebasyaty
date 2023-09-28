@@ -10,7 +10,9 @@
   </h1>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty">
+</p>
 
 <br/>
 
@@ -42,7 +44,7 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
   </a>
 </div>
 
@@ -50,12 +52,12 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
   </a>
     <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8">
   </a>
 </div>
 
@@ -63,7 +65,7 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
   </p>
 </div>
 
@@ -72,7 +74,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Languages:-orange" />
+      <img src="https://img.shields.io/badge/Languages:-orange">
     </a>
   </p>
 </div>
@@ -80,7 +82,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
      <a href="https://github.com/kebasyaty?tab=repositories">
-       <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal" />
+       <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
      </a>
   </p>
 </div>
@@ -90,7 +92,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Development:-orange" />
+      <img src="https://img.shields.io/badge/Development:-orange">
     </a>
   </p>
 </div>
@@ -110,7 +112,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+    <img src="https://img.shields.io/badge/Socialmedia:-orange">
   </a>
 </p>
 </div>
@@ -135,7 +137,7 @@ Philosophical recipe - Napoleon Cake.
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
 </p>
 
 <div align="center">
