@@ -33,8 +33,9 @@
   <img alt="Quotes" src="pictures/quotes.svg">
 </div>
 
+<!--
 <br>
-
+-->
 ## My profile stats here:
 
 <div align="center">
