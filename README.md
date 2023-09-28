@@ -74,7 +74,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Languages:-orange">
+      <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
     </a>
   </p>
 </div>
@@ -82,7 +82,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
      <a href="https://github.com/kebasyaty?tab=repositories">
-       <img src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
+       <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
      </a>
   </p>
 </div>
@@ -92,7 +92,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Development:-orange">
+      <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
     </a>
   </p>
 </div>
@@ -100,7 +100,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
    <a href="https://github.com/kebasyaty?tab=repositories">
-     <img src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
+     <img alt="Skills" src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
    </a>
  </p>
 <p align="center">
