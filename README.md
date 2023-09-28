@@ -124,6 +124,9 @@ Philosophical recipe - Napoleon Cake.
       <a href = "https://linuxmint.com/" target="_blank">
         <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-darkgreen?style=for-the-badge&logo=linuxmint">
       </a>
+      <a href = "https://www.microsoft.com/" target="_blank">
+        <img alt="Windows" src="https://img.shields.io/badge/Windows%2010-blue?style=for-the-badge&logo=windows">
+      </a>
     </div>
   </p>
 </div>
