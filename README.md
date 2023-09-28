@@ -167,6 +167,13 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <div>
+      <a href="https://github.com/kebasyaty">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </div>
+  </p>
+  <p align="center">
+    <div>
       <a href = "mailto:kebasyaty@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
@@ -182,9 +189,6 @@ Philosophical recipe - Napoleon Cake.
     <div>
       <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
         <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
-      </a>
-      <a href="https://github.com/kebasyaty">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
       <a href="https://bitbucket.org" target="_blank">
         <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
