@@ -158,14 +158,6 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/kebasyaty">
-    <img alt="Socialmedia" src="https://img.shields.io/badge/Socialmedia:-orange">
-  </a>
-</p>
-</div>
-
-<div align="center">
-  <p align="center">
     <div>
       <a href="https://github.com/kebasyaty">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
