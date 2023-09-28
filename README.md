@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty">
 </p>
 
-<br/>
+<br>
 
 <p align="center">
 Logic - Compass of philosophy.
@@ -26,7 +26,7 @@ Philosophy - Light from a flashlight in the attic of forgotten things.
 Philosophical recipe - Napoleon Cake.
 </p>
 
-<br/>
+<br>
 
 ## My profile stats here:
 
@@ -36,7 +36,7 @@ Philosophical recipe - Napoleon Cake.
   </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=vision-friendly-dark" alt="Language stats.">
@@ -48,7 +48,7 @@ Philosophical recipe - Napoleon Cake.
   </a>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
@@ -69,7 +69,7 @@ Philosophical recipe - Napoleon Cake.
   </p>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <p align="center">
@@ -87,7 +87,7 @@ Philosophical recipe - Napoleon Cake.
   </p>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <p align="center">
@@ -105,7 +105,7 @@ Philosophical recipe - Napoleon Cake.
  </p>
 </div>
 
-<br/>
+<br>
 
 ## Connect with me:
 
@@ -133,7 +133,7 @@ Philosophical recipe - Napoleon Cake.
   </p>
 </div>
 
-<br/>
+<br>
 
 <p align="center"> 
   Visitors :<br>
