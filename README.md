@@ -103,6 +103,13 @@ Philosophical recipe - Napoleon Cake.
      <img src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
    </a>
  </p>
+<p align="center">
+    <div>
+      <a href = "https://vuetifyjs.com/" target="_blank">
+        <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify">
+      </a>
+    </div>
+  </p>
 </div>
 
 <br>
