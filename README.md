@@ -100,13 +100,16 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
    <a href="https://github.com/kebasyaty?tab=repositories">
-     <img src="https://skillicons.dev/icons?i=django,vue,svelte,git,vscode" /> 
+     <img src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
    </a>
  </p>
 <p align="center">
     <div>
       <a href = "https://vuetifyjs.com" target="_blank">
         <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify">
+      </a>
+      <a href = "https://svelte.dev/" target="_blank">
+        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
       </a>
       <a href = "https://nodejs.org" target="_blank">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
