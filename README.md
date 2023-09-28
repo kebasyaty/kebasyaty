@@ -131,7 +131,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img src="https://img.shields.io/badge/Operating%20Systems:-orange">
+      <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
     </a>
   </p>
 </div>
@@ -159,7 +159,7 @@ Philosophical recipe - Napoleon Cake.
 <div align="center">
   <p align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange">
+    <img alt="Socialmedia" src="https://img.shields.io/badge/Socialmedia:-orange">
   </a>
 </p>
 </div>
