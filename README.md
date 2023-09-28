@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="pictures/welcome.svg">
-</p>
+</div>
 
 <div align="center">
   <h1>
