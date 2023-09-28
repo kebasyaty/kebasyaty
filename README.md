@@ -16,6 +16,7 @@
     alt="kebasyaty">
 </p>
 
+<!--
 <br>
 
 <p align="center">
@@ -27,6 +28,10 @@
 <p align="center">
   Philosophical recipe - Napoleon Cake.
 </p>
+-->
+<div align="center">
+  <img alt="Quotes" src="pictures/quotes.svg">
+</div>
 
 <br>
 
