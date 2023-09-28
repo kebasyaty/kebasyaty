@@ -105,8 +105,11 @@ Philosophical recipe - Napoleon Cake.
  </p>
 <p align="center">
     <div>
-      <a href = "https://vuetifyjs.com/" target="_blank">
+      <a href = "https://vuetifyjs.com" target="_blank">
         <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify">
+      </a>
+      <a href = "https://nodejs.org" target="_blank">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       </a>
     </div>
   </p>
