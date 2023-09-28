@@ -5,25 +5,27 @@
 <div align="center">
   <h1>
     <a href="https://github.com/kebasyaty/kebasyaty">
-      <img alt="Welcome text" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
+      <img alt="Welcome text"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
     </a>
   </h1>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat" alt="kebasyaty">
+  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=0e75b6&style=flat"
+    alt="kebasyaty">
 </p>
 
 <br>
 
 <p align="center">
-Logic - Compass of philosophy.
+  Logic - Compass of philosophy.
 </p>
 <p align="center">
-Philosophy - Light from a flashlight in the attic of forgotten things.
+  Philosophy - Light from a flashlight in the attic of forgotten things.
 </p>
 <p align="center">
-Philosophical recipe - Napoleon Cake.
+  Philosophical recipe - Napoleon Cake.
 </p>
 
 <br>
@@ -32,19 +34,23 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=vision_friendly_dark" alt="Profile details.">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=vision_friendly_dark"
+      alt="Profile details.">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=vision-friendly-dark">
+  <img alt="Language stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=vision-friendly-dark">
 </div>
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
   </a>
 </div>
 
@@ -52,12 +58,16 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
   </a>
-    <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8">
+  <a href="https://github.com/kebasyaty">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8">
   </a>
 </div>
 
@@ -81,9 +91,9 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-     <a href="https://github.com/kebasyaty?tab=repositories">
-       <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
-     </a>
+    <a href="https://github.com/kebasyaty?tab=repositories">
+      <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
+    </a>
   </p>
 </div>
 
@@ -99,30 +109,34 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-   <a href="https://github.com/kebasyaty?tab=repositories">
-     <img alt="Skills" src="https://skillicons.dev/icons?i=django,vue,git,vscode" /> 
-   </a>
- </p>
-<p align="center">
-    <div>
-      <a href = "https://vuetifyjs.com" target="_blank">
-        <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify">
-      </a>
-      <a href = "https://svelte.dev/" target="_blank">
-        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
-      </a>
-      <a href = "https://nodejs.org" target="_blank">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-      </a>
-    </div>
-    <div>
-      <a href = "https://jquery.com" target="_blank">
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-      </a>
-      <a href = "https://www.mongodb.com" target="_blank">
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-      </a>
-    </div>
+    <a href="https://github.com/kebasyaty?tab=repositories">
+      <img alt="Skills" src="https://skillicons.dev/icons?i=django,vue,git,vscode" />
+    </a>
+  </p>
+  <p align="center">
+  <div>
+    <a href="https://vuetifyjs.com" target="_blank">
+      <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify">
+    </a>
+    <a href="https://svelte.dev/" target="_blank">
+      <img alt="Svelte"
+        src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+      <img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+  </div>
+  <div>
+    <a href="https://jquery.com" target="_blank">
+      <img alt="jQuery"
+        src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com" target="_blank">
+      <img alt="MongoDB"
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+  </div>
   </p>
 </div>
 
@@ -138,17 +152,18 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-    <div>
-      <a href = "https://ubuntu.com" target="_blank">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu">
-      </a>
-      <a href = "https://linuxmint.com/" target="_blank">
-        <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-darkgreen?style=for-the-badge&logo=linuxmint">
-      </a>
-      <a href = "https://www.microsoft.com/" target="_blank">
-        <img alt="Windows" src="https://img.shields.io/badge/Windows%20-blue?style=for-the-badge&logo=windows">
-      </a>
-    </div>
+  <div>
+    <a href="https://ubuntu.com" target="_blank">
+      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu">
+    </a>
+    <a href="https://linuxmint.com/" target="_blank">
+      <img alt="Linux Mint"
+        src="https://img.shields.io/badge/Linux%20Mint-darkgreen?style=for-the-badge&logo=linuxmint">
+    </a>
+    <a href="https://www.microsoft.com/" target="_blank">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows%20-blue?style=for-the-badge&logo=windows">
+    </a>
+  </div>
   </p>
 </div>
 
@@ -158,44 +173,48 @@ Philosophical recipe - Napoleon Cake.
 
 <div align="center">
   <p align="center">
-    <div>
-      <a href="https://github.com/kebasyaty">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </div>
+  <div>
+    <a href="https://github.com/kebasyaty">
+      <img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
   </p>
   <p align="center">
-    <div>
-      <a href = "mailto:kebasyaty@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank">
-        <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="https://twitter.com/kebasyaty/" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-      </a>
-    </div>
+  <div>
+    <a href="mailto:kebasyaty@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank">
+      <img alt="Linkedin"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://twitter.com/kebasyaty/" target="_blank">
+      <img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+  </div>
   </p>
   <p align="center">
-    <div>
-      <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
-        <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
-      </a>
-      <a href="https://bitbucket.org" target="_blank">
-        <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
-      </a>
-    </div>
+  <div>
+    <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
+      <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
+    </a>
+    <a href="https://bitbucket.org" target="_blank">
+      <img alt="Bitbucket"
+        src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
+    </a>
+  </div>
   </p>
 </div>
 
 <br>
 
-<p align="center"> 
+<p align="center">
   Visitors :<br>
   <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
 </p>
 
 <div align="center">
-    <img alt="Ocean" src="pictures/ocean.svg">
+  <img alt="Ocean" src="pictures/ocean.svg">
 </div>
