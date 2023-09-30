@@ -175,7 +175,7 @@
 
 <br>
 
-## Connect with me:
+## :telephone: Connect with me:
 
 <div align="center">
   <p align="center">
