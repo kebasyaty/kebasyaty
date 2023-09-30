@@ -36,7 +36,7 @@
 <!--
 <br>
 -->
-## My profile stats here:
+## :fire: My profile stats here:
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
