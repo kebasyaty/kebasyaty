@@ -77,7 +77,7 @@
   </a>
 </div>
 
-## :wrench: Skills & Technologies:
+## :alien: Skills & Technologies:
 
 <div align="center">
   <p align="center">
