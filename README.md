@@ -116,7 +116,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty?tab=repositories">
-      <img alt="Skills" src="https://skillicons.dev/icons?i=django,vue,git,vscode" />
+      <img alt="Skills" src="https://skillicons.dev/icons?i=django,vue,nuxtjs,git,vscode" />
     </a>
   </p>
   <p align="center">
