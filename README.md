@@ -199,38 +199,34 @@
 
 <div align="center">
   <p align="center">
-  <div>
-    <a href="https://github.com/kebasyaty">
-      <img alt="GitHub"
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-  </div>
-  </p>
-  <p align="center">
-  <div>
-    <a href="mailto:kebasyaty@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank">
-      <img alt="Linkedin"
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://twitter.com/kebasyaty/" target="_blank">
-      <img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    </a>
-  </div>
-  </p>
-  <p align="center">
-  <div>
-    <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
-      <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
-    </a>
-    <a href="https://bitbucket.org" target="_blank">
-      <img alt="Bitbucket"
-        src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
-    </a>
-  </div>
+    <div>
+      <a href="https://github.com/kebasyaty">
+        <img alt="GitHub"
+          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </div>
+    <div>
+      <a href="mailto:kebasyaty@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/gennady-kostyunin-10188a1a2/" target="_blank">
+        <img alt="Linkedin"
+          src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://twitter.com/kebasyaty/" target="_blank">
+        <img alt="Twitter"
+          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+      </a>
+    </div>
+    <div>
+      <a href="https://pypi.org/project/django-editor-ymaps/" target="_blank">
+        <img alt="PyPI" src="https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=white">
+      </a>
+      <a href="https://bitbucket.org" target="_blank">
+        <img alt="Bitbucket"
+          src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
+      </a>
+    </div>
   </p>
 </div>
 
