@@ -170,7 +170,7 @@
   <p align="center">
     <div>
       <a href="https://ubuntu.com" target="_blank">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu">
+        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
       </a>
       <a href="https://linuxmint.com/" target="_blank">
         <img alt="Linux Mint"
