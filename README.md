@@ -143,6 +143,16 @@
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
   </div>
+  <div>
+    <a href="https://www.npmjs.com" target="_blank">
+      <img alt="NPM"
+        src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+    </a>
+    <a href="https://yarnpkg.com" target="_blank">
+      <img alt="Yarn"
+        src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+    </a>
+  </div>
   </p>
 </div>
 
