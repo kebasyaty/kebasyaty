@@ -77,7 +77,7 @@
   </a>
 </div>
 
-## :alien: Skills & Technologies:
+## :alien: Skills:
 
 <div align="center">
   <p align="center">
@@ -175,7 +175,15 @@
 
 <br>
 
-## :telephone: Connect with me:
+## :telephone: Social Media:
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/kebasyaty">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
 
 <div align="center">
   <p align="center">
