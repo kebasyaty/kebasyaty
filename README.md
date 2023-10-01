@@ -126,7 +126,7 @@
     </a>
     <a href="https://svelte.dev/" target="_blank">
       <img alt="Svelte"
-        src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
+        src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
     </a>
     <a href="https://nodejs.org" target="_blank">
       <img alt="Node.js"
