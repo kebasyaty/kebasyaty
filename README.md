@@ -174,7 +174,7 @@
       </a>
       <a href="https://linuxmint.com/" target="_blank">
         <img alt="Linux Mint"
-          src="https://img.shields.io/badge/Linux%20Mint-darkgreen?style=for-the-badge&logo=linuxmint">
+          src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
       </a>
       <a href="https://www.microsoft.com/" target="_blank">
         <img alt="Windows" src="https://img.shields.io/badge/Windows%20-blue?style=for-the-badge&logo=windows">
