@@ -177,6 +177,7 @@
 
 ## :telephone: Social Media:
 
+<!--
 <div align="center">
   <p align="center">
   <a href="https://github.com/kebasyaty">
@@ -184,6 +185,7 @@
   </a>
 </p>
 </div>
+-->
 
 <div align="center">
   <p align="center">
