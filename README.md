@@ -175,7 +175,7 @@
 
 <br>
 
-## :telephone: Social Media:
+## :telephone: Connection:
 
 <!--
 <div align="center">
