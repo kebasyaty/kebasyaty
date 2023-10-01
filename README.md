@@ -36,7 +36,7 @@
 <!--
 <br>
 -->
-## :fire: Statistics:
+## :fire: Activity:
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
