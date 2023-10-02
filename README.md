@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=brightgreen&style=for-the-badge"
+  <img src="https://komarev.com/ghpvc/?username=kebasyaty&label=Profile%20views&color=8b0000&style=for-the-badge"
     alt="Profile Views">
 </p>
 
