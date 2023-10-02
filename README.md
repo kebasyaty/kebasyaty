@@ -187,15 +187,13 @@
 
 ## :telephone: Connection:
 
-<!--
 <div align="center">
   <p align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+    <img src="https://img.shields.io/badge/Socialmedia:-darkred" />
   </a>
 </p>
 </div>
--->
 
 <div align="center">
   <p align="center">
