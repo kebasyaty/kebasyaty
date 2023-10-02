@@ -90,7 +90,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img alt="Languages" src="https://img.shields.io/badge/Languages:-darkred">
+      <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
     </a>
   </p>
 </div>
@@ -108,7 +108,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img alt="Development" src="https://img.shields.io/badge/Development:-darkred">
+      <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
     </a>
   </p>
 </div>
@@ -161,7 +161,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty">
-      <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-darkred">
+      <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
     </a>
   </p>
 </div>
@@ -190,7 +190,7 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/kebasyaty">
-    <img src="https://img.shields.io/badge/Socialmedia:-darkred" />
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
   </a>
 </p>
 </div>
