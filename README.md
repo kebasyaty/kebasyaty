@@ -16,26 +16,10 @@
     alt="Profile Views">
 </p>
 
-<!--
-<br>
-
-<p align="center">
-  Logic - Compass of philosophy.
-</p>
-<p align="center">
-  Philosophy - Light from a flashlight in the attic of forgotten things.
-</p>
-<p align="center">
-  Philosophical recipe - Napoleon Cake.
-</p>
--->
 <div align="center">
   <img alt="Quotes" src="pictures/quotes.svg">
 </div>
 
-<!--
-<br>
--->
 ## :fire: Activity:
 
 <div align="center">
