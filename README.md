@@ -81,9 +81,11 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty?tab=repositories">
-      <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
-    </a>
+    <div>
+      <a href="https://github.com/kebasyaty?tab=repositories">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
+      </a>
+    </div>
   </p>
 </div>
 
@@ -105,6 +107,9 @@
       </a>
       <a href="https://www.jetbrains.com/pycharm/">
         <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+      </a>
+      <a href="https://git-scm.com">
+        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       </a>
     </div>
   </p>
