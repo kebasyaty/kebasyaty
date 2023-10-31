@@ -87,22 +87,22 @@
       </a>
     </div> -->
     <div>
-      <a href="https://www.ecma-international.org/technical-committees/tc39/" target="_blank">
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      </a>
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
       </a>
       <a href="https://www.rust-lang.org" target="_blank">
         <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
       </a>
+      <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+      </a>
     </div>
     <div>
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
       </a>
-      <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+      <a href="https://www.ecma-international.org/technical-committees/tc39/" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
       </a>
       <a href="https://www.w3.org/Style/CSS/" target="_blank">
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
