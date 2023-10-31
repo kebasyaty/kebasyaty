@@ -174,6 +174,10 @@
          <img alt="MongoDB"
            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       </a>
+      <a href="https://www.sqlite.org/index.html" target="_blank">
+         <img alt="SQLite"
+           src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+      </a>
       <a href="https://mariadb.org" target="_blank">
          <img alt="MariaDB"
            src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
