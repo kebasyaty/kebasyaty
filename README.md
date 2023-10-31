@@ -145,13 +145,13 @@
         <img alt="jQuery"
           src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
       </a>
-      <a href="https://vuejs.org/" target="_blank">
-        <img alt="Vue.js"
-          src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-      </a>
       <a href="https://www.djangoproject.com/" target="_blank">
         <img alt="Django"
           src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+      </a>
+      <a href="https://vuejs.org/" target="_blank">
+        <img alt="Vue.js"
+          src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
       </a>
     </div>
   </p>
