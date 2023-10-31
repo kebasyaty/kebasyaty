@@ -81,11 +81,12 @@
 
 <div align="center">
   <p align="center">
-    <!-- <div>
+    <div>
       <a href="https://github.com/kebasyaty?tab=repositories">
         <img alt="Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
       </a>
-    </div> -->
+    </div>
+  <!--
     <div>
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
@@ -113,6 +114,7 @@
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       </a>
     </div>
+  -->
   </p>
 </div>
 
