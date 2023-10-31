@@ -100,7 +100,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/kebasyaty?tab=repositories">
-      <img alt="Skills" src="https://skillicons.dev/icons?i=vscode,vue,git,django" />
+      <img alt="Skills" src="https://skillicons.dev/icons?i=vscode,git" />
     </a>
   </p>
   <p align="center">
