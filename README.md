@@ -153,9 +153,26 @@
         <img alt="Django"
           src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       </a>
-      <a href="https://www.mongodb.com" target="_blank">
-        <img alt="MongoDB"
-          src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </div>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/kebasyaty">
+      <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+     <div>
+       <a href="https://www.mongodb.com" target="_blank">
+         <img alt="MongoDB"
+           src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       </a>
     </div>
   </p>
