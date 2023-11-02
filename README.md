@@ -164,10 +164,15 @@
 <div align="center">
   <p align="center">
     <div>
+      <a href="https://github.com/kebasyaty?tab=repositories">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=django,actix">
+      </a>
+      <!--
       <a href="https://www.djangoproject.com/" target="_blank">
         <img alt="Django"
           src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       </a>
+      -->
     </div>
     <div>
       <a href="https://www.npmjs.com" target="_blank">
