@@ -132,7 +132,7 @@
   <p align="center">
     <div>
       <a href="https://github.com/kebasyaty?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,github,git">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github">
       </a>
     </div>
     <!--
