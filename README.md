@@ -83,10 +83,14 @@
   <p align="center">
     <div>
       <a href="https://github.com/kebasyaty?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=py,css,html,js,rust,crystal">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js">
       </a>
     </div>
-  <!--
+    <div>
+      <a href="https://www.python.org" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      </a>
+    </div>
     <div>
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
@@ -98,23 +102,6 @@
         <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
       </a>
     </div>
-    <div>
-      <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-        <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      </a>
-      <a href="https://www.ecma-international.org/technical-committees/tc39/" target="_blank">
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      </a>
-      <a href="https://www.w3.org/Style/CSS/" target="_blank">
-        <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-      </a>
-    </div>
-    <div>
-      <a href="https://www.python.org" target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      </a>
-    </div>
-  -->
   </p>
 </div>
 
@@ -135,19 +122,6 @@
         <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github">
       </a>
     </div>
-    <!--
-    <div>
-      <a href="https://code.visualstudio.com" target="_blank">
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      </a>
-      <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-        <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-      </a>
-      <a href="https://git-scm.com" target="_blank">
-        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      </a>
-    </div>
-    -->
   </p>
 </div>
 
@@ -167,12 +141,6 @@
       <a href="https://github.com/kebasyaty?tab=repositories">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=django,actix">
       </a>
-      <!--
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img alt="Django"
-          src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-      </a>
-      -->
     </div>
     <div>
       <a href="https://www.npmjs.com" target="_blank">
