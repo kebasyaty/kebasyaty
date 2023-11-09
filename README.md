@@ -83,9 +83,10 @@
   <p align="center">
     <div>
       <a href="https://github.com/kebasyaty?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=python,css,html,js,rust,crystal">
       </a>
     </div>
+    <!--
     <div>
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
@@ -97,6 +98,7 @@
         <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
       </a>
     </div>
+    -->
   </p>
 </div>
 
