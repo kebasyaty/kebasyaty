@@ -87,13 +87,11 @@
       </a>
     </div>
     <div>
-      <a href="https://www.python.org" target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      </a>
-    </div>
-    <div>
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
+      </a>
+      <a href="https://www.python.org" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       </a>
       <a href="https://www.rust-lang.org" target="_blank">
         <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
