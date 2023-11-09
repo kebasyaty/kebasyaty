@@ -95,9 +95,6 @@
       <a href="https://crystal-lang.org" target="_blank">
         <img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white">
       </a>
-      <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-      </a>
       <a href="https://www.rust-lang.org" target="_blank">
         <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
       </a>
