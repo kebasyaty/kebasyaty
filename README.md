@@ -64,7 +64,9 @@
 <br>
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+  <a href="https://github.com/kebasyaty">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+  </a>
 </div>
 
 <br>
