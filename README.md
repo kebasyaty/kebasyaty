@@ -61,6 +61,14 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+</div>
+
+<br>
+
 ## :alien: Skills:
 
 <div align="center">
