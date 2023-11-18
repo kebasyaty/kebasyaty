@@ -4,10 +4,8 @@
 
 <div align="center">
   <h1>
-    <a href="https://github.com/kebasyaty/kebasyaty">
-      <img alt="Welcome text"
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
-    </a>
+    <img alt="Welcome text"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
   </h1>
 </div>
 
@@ -23,11 +21,9 @@
 ## :fire: Activity:
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=vision_friendly_dark"
-      alt="Profile details.">
-  </a>
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=vision_friendly_dark"
+    alt="Profile details.">
 </div>
 
 <br>
@@ -38,31 +34,22 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
-  </a>
-  <a href="https://github.com/kebasyaty">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8"></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
-  </a>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
 </div>
 
 <br>
@@ -79,9 +66,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
-    </a>
+    <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
   </p>
 </div>
 
@@ -106,9 +91,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
-    </a>
+    <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
   </p>
 </div>
 
@@ -126,9 +109,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks:-orange">
-    </a>
+    <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks:-orange">
   </p>
 </div>
 
@@ -159,16 +140,14 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
-    </a>
+    <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
   </p>
 </div>
 
 <div align="center">
   <p align="center">
-     <div>
-       <a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <div>
+      <a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
       <a href="https://www.sqlite.org/index.html" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
       <a href="https://www.postgresql.org" target="_blank"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     </div>
@@ -179,9 +158,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kebasyaty">
-      <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
-    </a>
+    <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
   </p>
 </div>
 
@@ -205,10 +182,8 @@
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/kebasyaty">
     <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
+  </p>
 </div>
 
 <div align="center">
