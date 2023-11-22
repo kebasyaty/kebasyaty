@@ -213,6 +213,9 @@
   <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
 </p>
 
+<br>
+<br>
+
 <div align="center">
   <img alt="Footer" src="pictures/footer.svg" width="100%">
 </div>
