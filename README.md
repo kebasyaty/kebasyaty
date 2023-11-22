@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Welcome" src="pictures/welcome.svg">
+  <img alt="Header" src="pictures/header.svg">
 </div>
 
 <div align="center">
@@ -214,5 +214,5 @@
 </p>
 
 <div align="center">
-  <img alt="Ocean" src="pictures/ocean.svg">
+  <img alt="Footer" src="pictures/footer.svg" width="100%">
 </div>
