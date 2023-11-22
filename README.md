@@ -214,7 +214,6 @@
 </p>
 
 <br>
-<br>
 
 <div align="center">
   <img alt="Footer" src="pictures/footer.svg" width="100%">
