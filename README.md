@@ -1,14 +1,20 @@
+<!--
 <div align="center">
   <a href="https://github.com/kebasyaty" target="_blank">
     <img alt="Header" src="pictures/header.svg">
   </a>
 </div>
+-->
 
 <div align="center">
   <h1>
     <a href="https://github.com/kebasyaty" target="_blank">
+      <!--
       <img alt="Welcome text"
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
+      -->
+      <img alt="Welcome text"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%F0%9F%91%8B">
     </a>
   </h1>
 </div>
@@ -245,10 +251,10 @@
   </a>
 </p>
 
-<br>
-
+<!--
 <div align="center">
   <a href="https://github.com/kebasyaty" target="_blank">
     <img alt="Footer" src="pictures/footer.svg" width="100%">
   </a>
 </div>
+-->
