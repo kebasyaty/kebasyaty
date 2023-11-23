@@ -39,27 +39,33 @@
 <br>
 
 <div align="center">
-  <img alt="Language stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=vision-friendly-dark">
+  <a href="https://github.com/kebasyaty" target="_blank">
+    <img alt="Language stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=vision-friendly-dark">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8"></a>
+  <a href="https://github.com/kebasyaty" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+  <a href="https://github.com/kebasyaty" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=vision_friendly_dark"></a>
+  <a href="https://github.com/kebasyaty" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=vision_friendly_dark"></a>
+  <a href="https://github.com/kebasyaty" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=vision_friendly_dark"></a>
+  <a href="https://github.com/kebasyaty" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/kebasyaty" target="_blank">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
+  </a>
 </div>
 
 <br>
