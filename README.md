@@ -74,7 +74,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
+    </a>
   </p>
 </div>
 
@@ -82,14 +84,16 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img alt="Languages" src="https://img.shields.io/badge/Languages:-orange">
+    </a>
   </p>
 </div>
 
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty?tab=repositories">
+      <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=python,css,html,js,rust,crystal">
       </a>
     </div>
@@ -107,14 +111,16 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img alt="Development" src="https://img.shields.io/badge/Development:-orange">
+    </a>
   </p>
 </div>
 
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://github.com/kebasyaty?tab=repositories">
+      <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
         <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github">
       </a>
     </div>
@@ -125,7 +131,9 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks:-orange">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img alt="Frameworks" src="https://img.shields.io/badge/Frameworks:-orange">
+    </a>
   </p>
 </div>
 
@@ -156,7 +164,9 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img alt="Databases" src="https://img.shields.io/badge/Databases:-orange">
+    </a>
   </p>
 </div>
 
@@ -174,7 +184,9 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img alt="Operating Systems" src="https://img.shields.io/badge/Operating%20Systems:-orange">
+    </a>
   </p>
 </div>
 
