@@ -182,7 +182,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+    <a href="https://github.com/kebasyaty" target="_blank">
+      <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+    </a>
   </p>
 </div>
 
@@ -210,11 +212,15 @@
 
 <p align="center">
   Visitors :<br>
-  <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
+  <a href="https://github.com/kebasyaty" target="_blank">
+    <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
+  </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img alt="Footer" src="pictures/footer.svg" width="100%">
+  <a href="https://github.com/kebasyaty" target="_blank">
+    <img alt="Footer" src="pictures/footer.svg" width="100%">
+  </a>
 </div>
