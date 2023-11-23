@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
     <style>
-                .text {
+        .text {
             font-size: 70px;
             font-weight: 700;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
@@ -10,10 +10,8 @@
             font-weight: 500;
             font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
         }
-
-            </style>
+    </style>
     <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-
 <defs>
   <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#5E35B1"/><stop offset="100%" stop-color="#311B92"/>
