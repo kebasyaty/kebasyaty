@@ -66,9 +66,17 @@
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=vision_friendly_dark&utcOffset=8"></a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
+    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&row=1">
+  </a>
+</div>
+
 <!--
 <div align="center">
-  <a href="https://github.com/kebasyaty" target="_blank">
+  <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
   </a>
 </div>
