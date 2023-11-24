@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://github.com/kebasyaty?tab=repositorie" target="_blank">
-    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=darkhub&no-frame=true&margin-w=10&row=1">
+    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=onedark&no-frame=true&margin-w=15&row=1">
   </a>
 </div>
 
