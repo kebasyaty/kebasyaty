@@ -47,7 +47,7 @@
 <div align="center">
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
     <img alt="Language stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=noctis_minimus">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=ayu-mirage">
   </a>
 </div>
 
