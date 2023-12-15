@@ -32,7 +32,7 @@
   </a>
 </div>
 
-## :fire: Activity:
+## Activity:
 
 <div align="center">
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
@@ -84,7 +84,7 @@
 
 <br>
 
-## :alien: Skills:
+## Skills:
 
 <div align="center">
   <p align="center">
@@ -220,7 +220,7 @@
 
 <br>
 
-## :telephone: Connection:
+## Connection:
 
 <div align="center">
   <p align="center">
