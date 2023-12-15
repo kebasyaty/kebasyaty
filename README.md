@@ -36,6 +36,14 @@
 ## Activity:
 
 <div align="center">
+  <a href="https://github.com/kebasyaty?tab=repositorie" target="_blank">
+    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=onedark&no-frame=true&margin-w=15&row=1">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank">
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=ayu_mirage"
@@ -67,14 +75,6 @@
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=ayu_mirage"></a>
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=ayu_mirage"></a>
   <a href="https://github.com/kebasyaty?tab=repositories" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=ayu_mirage&utcOffset=8"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositorie" target="_blank">
-    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=onedark&no-frame=true&margin-w=15&row=1">
-  </a>
 </div>
 
 <!--
