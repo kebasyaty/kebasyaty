@@ -210,10 +210,8 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
       <a href="https://linuxmint.com" target="_blank"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
-    </div>
-    <div>
+      <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
       <a href="https://www.microsoft.com" target="_blank">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
       </a>
