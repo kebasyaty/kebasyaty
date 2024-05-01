@@ -190,7 +190,7 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-5e902b?style=for-the-badge&logo=mongodb&logoColor=white"></a>
       <a href="https://www.sqlite.org/index.html" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
       <a href="https://www.postgresql.org" target="_blank"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     </div>
@@ -210,7 +210,7 @@
 <div align="center">
   <p align="center">
     <div>
-      <a href="https://linuxmint.com" target="_blank"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+      <a href="https://linuxmint.com" target="_blank"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-4EA94B?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
       <a href="https://fedoraproject.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
       <a href="https://www.microsoft.com" target="_blank">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
