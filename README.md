@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/kebasyaty">
-    <img alt="Quotes" src="pictures/PhotoFunia-1725774858.jpg">
+    <img alt="Quotes" src="pictures/PhotoFunia-1725946419.jpg">
   </a>
 </div>
 
