@@ -37,7 +37,6 @@
   <a href="https://github.com/kebasyaty">
     <img alt="Quotes" src="pictures/girls.jpg">
   </a>
-  <p>Two extremes and one perspective.</p>
 </div>
 
 ## Activity:
