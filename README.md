@@ -259,12 +259,14 @@
 
 <br>
 
+<!--
 <p align="center">
   Visitors :<br>
   <a href="https://github.com/kebasyaty">
     <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
   </a>
 </p>
+-->
 
 <!--
 <div align="center">
