@@ -168,8 +168,6 @@
   </p>
 </div>
 
-<br>
-
 ## Connection:
 
 <div align="center">
