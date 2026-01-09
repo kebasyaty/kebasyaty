@@ -1,19 +1,6 @@
-<!--
-<div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img alt="Header" src="pictures/header.svg">
-  </a>
-</div>
--->
-
 <div align="center">
   <h1>
     <a href="https://github.com/kebasyaty">
-      <!--
-      <img alt="Welcome text"
-        src="https://readme-typing-svg.herokuapp.com? 
-          font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Gennady%F0%9F%91%8B">
-      -->
       <img alt="Welcome text"
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFC107&center=true&vCenter=true&width=435&height=70&lines=Hi%F0%9F%91%8B">
     </a>
@@ -42,14 +29,6 @@
 ## Activity:
 
 <div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositorie">
-    <img alt="Activity Graph" src="https://github-profile-trophy.vercel.app/?username=kebasyaty&theme=onedark&no-frame=true&margin-w=15&row=1">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/kebasyaty?tab=repositories">
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasyaty&theme=ayu_mirage"
@@ -57,41 +36,12 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
-    <img alt="Language stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasyaty&langs_count=8&hide_border=true&theme=ayu-mirage">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kebasyaty&theme=ayu_mirage&hide_border=true&exclude_days=Sun">
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kebasyaty&theme=ayu_mirage"></a>
   <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kebasyaty&theme=ayu_mirage"></a>
   <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kebasyaty&theme=ayu_mirage"></a>
   <a href="https://github.com/kebasyaty?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kebasyaty&theme=ayu_mirage&utcOffset=8"></a>
 </div>
-
-<!--
-<div align="center">
-  <a href="https://github.com/kebasyaty?tab=repositories">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kebasyaty&theme=high-contrast&height=250">
-  </a>
-</div>
--->
-
-<br>
 
 ## Skills:
 
@@ -120,13 +70,6 @@
         <img alt="My Skills" src="https://skillicons.dev/icons?i=python,css,html,js,rust,crystal">
       </a>
     </div>
-    <!--
-    <div>
-      <a href="https://crystal-lang.org"><img alt="Crystal" src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white"></a>
-      <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-      <a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
-    </div>
-    -->
   </p>
 </div>
 
@@ -256,22 +199,3 @@
     </div>
   </p>
 </div>
-
-<br>
-
-<!--
-<p align="center">
-  Visitors :<br>
-  <a href="https://github.com/kebasyaty">
-    <img alt="Profile Counter" src="https://profile-counter.glitch.me/kebasyaty-dev/count.svg">
-  </a>
-</p>
--->
-
-<!--
-<div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img alt="Footer" src="pictures/footer.svg" width="100%">
-  </a>
-</div>
--->
