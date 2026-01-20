@@ -107,7 +107,7 @@
   <p align="center">
     <div>
       <a href="https://github.com/kebasyaty?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=django,actix">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=django,fastapi,actix">
       </a>
     </div>
     <div>
