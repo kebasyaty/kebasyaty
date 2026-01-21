@@ -15,9 +15,16 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/kebasyaty">
-    <img alt="Quotes" src="pictures/quotes.svg">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC25E&width=480&lines=Logic+is+the+compass+of+philosophy." alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC25E&width=480&lines=Philosophy+is+a+ray+of+light+from+a" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC25E&width=480&lines=dusty+attic+among+forgotten+things." alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC25E&width=480&lines=The+philosophical+recipe+is+the+Napoleon+cake." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
